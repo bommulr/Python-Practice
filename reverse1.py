@@ -1,3 +1,5 @@
+## Function to reverse a string ##
+
 def reverse(n):
 
     l = len(n)
