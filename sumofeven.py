@@ -1,3 +1,5 @@
+## Function to find sum of all even numbers in a list ##
+
 def sumofeven(lis):
 
     sum = 0
