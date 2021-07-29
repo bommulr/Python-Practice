@@ -1,3 +1,5 @@
+## Function to concatenate the string items in the given list ##
+
 def stringfun(l):
     new = ''
 
