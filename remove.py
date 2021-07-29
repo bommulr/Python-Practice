@@ -1,3 +1,5 @@
+## Program to remove all empty strings,lists in the given list of items ##
+
 test_list = [5, 6,'','2','a', [], 3, [], [], 9]
 
 
