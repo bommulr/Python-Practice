@@ -1,3 +1,5 @@
+## Function to count the occurences in the string ##
+
 def count(str1):
     count = 0
 
