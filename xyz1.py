@@ -1,3 +1,5 @@
+## Program to remove empty lists, dicts, strings in a given list ##
+
 test_list = {"a":[5, 6,'','2','a', [], 3, [], [], 9, {}] ,"b":[], "c":{"d":[] ,"e":[1,2] } }
 
 x = list(test_list.values())
