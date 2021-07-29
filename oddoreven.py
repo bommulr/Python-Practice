@@ -1,3 +1,5 @@
+## Function to find the given number is odd or even ##
+
 def oddoreven(num):
 
     if num%2 == 0:
